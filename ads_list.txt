@@ -1,1 +1,1 @@
-|name|                          |web address|                          |contact info(optional)|
+|name|                          |web address|                          |contact info|

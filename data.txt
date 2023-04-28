@@ -1,1 +1,5 @@
-example|example.com|example@example.com
+Netflix - Watch TV shows and movies online. Stream unlimited content from anywhere.|https://www.netflix.com/|support@netflix.com
+Amazon - Online shopping from the earth’s biggest selection of books, electronics, clothing, and more.|https://www.amazon.com/|1-888-280-4331
+Spotify - Listen to music and podcasts for free. Discover new artists and genres.|https://www.spotify.com/|support@spotify.com
+Microsoft - Empowering every person and every organization on the planet to achieve more.|https://www.microsoft.com/|1-800-642-7676
+Facebook - Connect with friends, family and other people you know. Share photos and videos, send messages and get updates.|https://www.facebook.com/	|help@facebook.com
